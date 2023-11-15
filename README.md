@@ -1,0 +1,1 @@
+Es nedaudz saprotu kā lietot GIT un GITHUB.
